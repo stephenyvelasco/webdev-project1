@@ -22,11 +22,15 @@ body {
 .navbar-brand{
     font-family: 'Rubik';
 }
+#home {
+  padding-top: 75px;
+}
 .image1{
     display: block;
+    width: 100%;
     max-width: 100%; 
     height: auto;
-    margin-top: 75px;
+      margin-top: 0; 
 }
 .image2{
     display: block;
